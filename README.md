@@ -2,13 +2,8 @@ README for rho.c
 Puyan Lotfi
 Math 3012: Ravi Montenegro
 
-The tarball can be found at: 
-
-http://www.asbestosis.ath.cx/~puyan/rho.tar.gz
-
-or
-
-http://www.cc.gatech.edu/~puyan/rho.tar.gz
+https://en.wikipedia.org/wiki/Pollard%27s_rho_algorithm
+https://math.gatech.edu/courses/math/3012
 
 
 - To compile rho.c just "make".
